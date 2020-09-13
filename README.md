@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on some scraping data projects 
+📫 How to reach me: damian@jahn.pl 
+
+
 <!--
 **damianjahn/damianjahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
