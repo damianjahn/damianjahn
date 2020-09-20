@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on some scraping data projects 
-📫 How to reach me: damian@jahn.pl 
+- 🔭 I’m currently working on some scraping data projects 
+- 📫 How to reach me: damian@jahn.pl 
 
 
 <!--
