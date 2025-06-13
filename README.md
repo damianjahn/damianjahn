@@ -19,16 +19,6 @@ You can find more about me — including ways to get in touch — on my landing 
 
 ---
 
-## 📊 GitHub Stats
-
-![Damian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=damiks&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damiks&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=damiks&theme=default)
-
----
-
 ## 💡 Extras you might see soon
 - 🧰 QA tools, test frameworks, or side projects
 - ⚡ Fun fact: I’m into **fitness**, **AI**, and **tech events** (and occasionally travel a bit to host them 😉)
