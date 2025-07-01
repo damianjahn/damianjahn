@@ -5,7 +5,7 @@ I'm a **Senior QA Engineer** currently working at **TiVo**, where I focus on bui
 ---
 
 ## 🔧 What I do
-- 🧪 Automated testing using **Python**
+- 🧪 Automated testing using **Python** with **Selenium**
 - 🏗️ Designing and evolving our **in-house QA framework**
 - 🖥️ Testing software and hardware integrations
 - 🔍 Advocating for **quality engineering** best practices
